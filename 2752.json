@@ -1,0 +1,29 @@
+{
+  "edition": 2752,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antenna"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jumper Jacket"
+    }
+  ]
+}

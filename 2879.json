@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Lavender"
     },
     {
       "trait_type": "Skin",
-      "value": "Rust"
+      "value": "Peach"
     },
     {
       "trait_type": "Mouth",
-      "value": "Relaxed"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyes",
-      "value": "Mascara Shocked"
+      "value": "Closed"
     },
     {
       "trait_type": "Head",
-      "value": "Mohawk Black"
+      "value": "Ram Horns"
     },
     {
       "trait_type": "Body",
-      "value": "Jumper Jacket"
+      "value": "Orange T-shirt"
     }
   ]
 }

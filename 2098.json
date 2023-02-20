@@ -1,0 +1,29 @@
+{
+  "edition": 2098,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bullish Harami"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

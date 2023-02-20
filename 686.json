@@ -1,0 +1,29 @@
+{
+  "edition": 686,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Wink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Desert Military Helmet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Hawaiian Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    }
+  ]
+}

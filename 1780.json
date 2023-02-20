@@ -1,0 +1,29 @@
+{
+  "edition": 1780,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nouns"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate Hat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Viking"
+    }
+  ]
+}

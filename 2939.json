@@ -1,0 +1,29 @@
+{
+  "edition": 2939,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Tongue"
+    }
+  ]
+}

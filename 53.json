@@ -1,0 +1,29 @@
+{
+  "edition": 53,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deep Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Stoned"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

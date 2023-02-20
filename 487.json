@@ -1,0 +1,29 @@
+{
+  "edition": 487,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octopus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

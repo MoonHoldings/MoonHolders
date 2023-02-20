@@ -1,0 +1,29 @@
+{
+  "edition": 3842,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solana City"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nouns"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ram Horns"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

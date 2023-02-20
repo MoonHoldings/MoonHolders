@@ -1,0 +1,29 @@
+{
+  "edition": 607,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Military Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

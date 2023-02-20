@@ -1,0 +1,29 @@
+{
+  "edition": 1744,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deep Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    }
+  ]
+}

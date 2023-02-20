@@ -1,0 +1,29 @@
+{
+  "edition": 1524,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Space Suit"
+    }
+  ]
+}

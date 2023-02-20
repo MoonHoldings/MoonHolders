@@ -1,0 +1,29 @@
+{
+  "edition": 1126,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mummy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red T-shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    }
+  ]
+}

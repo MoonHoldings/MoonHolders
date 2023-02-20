@@ -1,0 +1,29 @@
+{
+  "edition": 2834,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stoned"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octopus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Robotic Armor"
+    }
+  ]
+}

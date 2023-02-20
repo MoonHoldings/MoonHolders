@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Blue"
+      "value": "Deep Blue"
     },
     {
       "trait_type": "Skin",
-      "value": "Rose"
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
     },
     {
       "trait_type": "Eyes",
-      "value": "Wink"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "None"
     },
     {
       "trait_type": "Body",
       "value": "None"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Black Beard"
     }
   ]
 }

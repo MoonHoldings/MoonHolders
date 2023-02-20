@@ -1,0 +1,29 @@
+{
+  "edition": 4060,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Hologram Googles"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octopus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

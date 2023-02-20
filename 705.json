@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Yellow"
+      "value": "Pink"
     },
     {
       "trait_type": "Skin",
-      "value": "Rust"
+      "value": "Zombie"
     },
     {
       "trait_type": "Mouth",
-      "value": "Bite"
+      "value": "Grin"
     },
     {
       "trait_type": "Eyes",
-      "value": "Relaxed"
+      "value": "Sad"
     },
     {
       "trait_type": "Head",
-      "value": "Blue Cap"
+      "value": "None"
     },
     {
       "trait_type": "Body",
-      "value": "Blue T-shirt"
+      "value": "Space Suit"
     }
   ]
 }

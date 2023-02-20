@@ -1,0 +1,29 @@
+{
+  "edition": 3864,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Military Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red T-shirt"
+    }
+  ]
+}

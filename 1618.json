@@ -1,0 +1,29 @@
+{
+  "edition": 1618,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

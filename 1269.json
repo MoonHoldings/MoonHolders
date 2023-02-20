@@ -1,0 +1,29 @@
+{
+  "edition": 1269,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stoned"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Om"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Puffer Jacket"
+    }
+  ]
+}

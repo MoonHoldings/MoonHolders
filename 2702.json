@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Grey"
+      "value": "Solana City"
     },
     {
       "trait_type": "Skin",
-      "value": "Green"
+      "value": "Zombie"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Sleepy"
     },
     {
       "trait_type": "Head",
-      "value": "Red Cap"
+      "value": "None"
     },
     {
       "trait_type": "Body",
-      "value": "Blue Hawaiian Shirt"
+      "value": "Blue T-shirt"
     }
   ]
 }

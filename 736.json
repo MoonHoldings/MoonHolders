@@ -1,0 +1,29 @@
+{
+  "edition": 736,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Hologram Googles"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octopus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

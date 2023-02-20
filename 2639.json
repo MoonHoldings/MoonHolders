@@ -1,0 +1,29 @@
+{
+  "edition": 2639,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deep Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Wink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Hawaiian Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    }
+  ]
+}

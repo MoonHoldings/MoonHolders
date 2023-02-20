@@ -1,0 +1,29 @@
+{
+  "edition": 2604,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Shooting Stars"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk Rainbow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Turtle Neck"
+    }
+  ]
+}

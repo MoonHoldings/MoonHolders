@@ -1,0 +1,29 @@
+{
+  "edition": 2028,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smug"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Beard"
+    }
+  ]
+}

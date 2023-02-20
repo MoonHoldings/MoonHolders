@@ -1,0 +1,29 @@
+{
+  "edition": 4833,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Beard"
+    }
+  ]
+}

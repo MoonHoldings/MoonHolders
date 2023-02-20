@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Blue"
+      "value": "Lavender"
     },
     {
       "trait_type": "Skin",
-      "value": "Rust"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Meme Sunglasses"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Mohawk Pink"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Jumper Jacket"
+      "value": "Mummy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Joint"
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Military Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cyber Armor"
     }
   ]
 }

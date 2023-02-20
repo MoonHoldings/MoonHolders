@@ -1,0 +1,29 @@
+{
+  "edition": 1189,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Hologram Googles"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White T-shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "edition": 3786,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jumper Jacket"
+    }
+  ]
+}

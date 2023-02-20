@@ -1,0 +1,29 @@
+{
+  "edition": 3504,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Solana Vipers"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Three White Soldiers"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

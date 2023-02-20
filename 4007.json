@@ -1,0 +1,29 @@
+{
+  "edition": 4007,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

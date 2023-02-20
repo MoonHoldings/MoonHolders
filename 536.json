@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Pink"
     },
     {
       "trait_type": "Skin",
-      "value": "Pitch"
+      "value": "Mummy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Giggle"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
-      "value": "Top Hat"
+      "value": "None"
     },
     {
       "trait_type": "Body",
-      "value": "Black Suit"
+      "value": "Black T-shirt"
     }
   ]
 }

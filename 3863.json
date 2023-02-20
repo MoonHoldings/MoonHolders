@@ -1,0 +1,29 @@
+{
+  "edition": 3863,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solana City"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antenna"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "White Beard"
+    }
+  ]
+}

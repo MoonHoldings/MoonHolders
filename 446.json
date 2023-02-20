@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Deep Blue"
+      "value": "Green"
     },
     {
       "trait_type": "Skin",
-      "value": "Zombie"
+      "value": "Candy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Laugh"
     },
     {
       "trait_type": "Eyes",
-      "value": "Electric"
+      "value": "Wink"
     },
     {
       "trait_type": "Head",
-      "value": "Antenna"
+      "value": "Bullish Harami"
     },
     {
       "trait_type": "Body",
-      "value": "Alien Armor"
+      "value": "None"
     }
   ]
 }

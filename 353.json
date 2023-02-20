@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Yellow"
+      "value": "Lavender"
     },
     {
       "trait_type": "Skin",
-      "value": "Candy"
+      "value": "Red"
     },
     {
       "trait_type": "Mouth",
-      "value": "Relaxed"
+      "value": "Laugh"
     },
     {
       "trait_type": "Eyes",
-      "value": "Fire"
+      "value": "Red Sunglasses"
     },
     {
       "trait_type": "Head",
-      "value": "Purple Cap"
+      "value": "None"
     },
     {
       "trait_type": "Body",
-      "value": "None"
+      "value": "Blue Puffer Jacket"
     }
   ]
 }

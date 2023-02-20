@@ -1,0 +1,29 @@
+{
+  "edition": 1263,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Hologram Googles"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Puffer Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "White Beard"
+    }
+  ]
+}

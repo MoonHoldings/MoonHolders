@@ -1,0 +1,29 @@
+{
+  "edition": 5041,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "edition": 3514,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk Rainbow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Goatee"
+    }
+  ]
+}

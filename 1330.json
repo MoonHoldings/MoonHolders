@@ -1,0 +1,29 @@
+{
+  "edition": 1330,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Shooting Stars"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White T-shirt"
+    }
+  ]
+}

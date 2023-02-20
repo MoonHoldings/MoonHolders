@@ -1,0 +1,29 @@
+{
+  "edition": 2284,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate Hat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Puffer Jacket"
+    }
+  ]
+}

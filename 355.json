@@ -1,0 +1,29 @@
+{
+  "edition": 355,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Military Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

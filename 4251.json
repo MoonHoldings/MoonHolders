@@ -1,0 +1,29 @@
+{
+  "edition": 4251,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Military Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "White Beard"
+    }
+  ]
+}

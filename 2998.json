@@ -1,0 +1,29 @@
+{
+  "edition": 2998,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Stoned"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Baby"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange T-shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Tongue"
+    }
+  ]
+}

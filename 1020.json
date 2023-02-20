@@ -1,0 +1,29 @@
+{
+  "edition": 1020,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solana City"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Om"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    }
+  ]
+}

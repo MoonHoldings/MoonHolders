@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Purple"
     },
     {
       "trait_type": "Skin",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Wink"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Top Hat"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Black Suit"
+      "value": "Rust"
     },
     {
       "trait_type": "Mouth",
-      "value": "Vape"
+      "value": "Giggle"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Meme Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ram Horns"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Puffer Jacket"
     }
   ]
 }

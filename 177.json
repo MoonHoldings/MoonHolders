@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Lavender"
+      "value": "Orange"
     },
     {
       "trait_type": "Skin",
-      "value": "Rose"
+      "value": "Green"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Nouns"
+      "value": "Mascara Shocked"
     },
     {
       "trait_type": "Head",
-      "value": "Mohawk Black"
+      "value": "Red Cap"
     },
     {
       "trait_type": "Body",
-      "value": "None"
+      "value": "Black Suit"
     }
   ]
 }

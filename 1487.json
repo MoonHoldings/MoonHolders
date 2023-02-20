@@ -1,0 +1,29 @@
+{
+  "edition": 1487,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giggle"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Solana Vipers"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

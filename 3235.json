@@ -1,0 +1,29 @@
+{
+  "edition": 3235,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bitcoin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

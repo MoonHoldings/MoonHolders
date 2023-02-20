@@ -1,0 +1,29 @@
+{
+  "edition": 3614,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giggle"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octopus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Space Suit"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "edition": 774,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange Puffer Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "edition": 3057,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deep Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate Hat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

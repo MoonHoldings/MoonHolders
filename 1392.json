@@ -1,0 +1,29 @@
+{
+  "edition": 1392,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

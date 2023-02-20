@@ -1,0 +1,29 @@
+{
+  "edition": 1815,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solana City"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nouns"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bitcoin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "edition": 4434,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Meme Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Devil Horns"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Beard"
+    }
+  ]
+}

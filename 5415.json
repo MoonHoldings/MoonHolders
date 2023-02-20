@@ -1,0 +1,29 @@
+{
+  "edition": 5415,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pirate Hat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

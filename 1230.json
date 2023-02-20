@@ -1,0 +1,29 @@
+{
+  "edition": 1230,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mummy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octopus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black T-shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Beard"
+    }
+  ]
+}

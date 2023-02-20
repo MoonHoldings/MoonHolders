@@ -1,0 +1,29 @@
+{
+  "edition": 419,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Shooting Stars"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

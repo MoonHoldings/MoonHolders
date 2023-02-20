@@ -1,0 +1,29 @@
+{
+  "edition": 283,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mummy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giggle"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smug"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Turtle Neck"
+    }
+  ]
+}

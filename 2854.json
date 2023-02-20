@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Lavender"
     },
     {
       "trait_type": "Skin",
-      "value": "Green"
+      "value": "Peach"
     },
     {
       "trait_type": "Eyes",
-      "value": "Smug"
+      "value": "Psychedelic"
     },
     {
       "trait_type": "Head",
-      "value": "Mohawk Rainbow"
+      "value": "None"
     },
     {
       "trait_type": "Body",
-      "value": "Blue T-shirt"
+      "value": "None"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lollipop"
+      "value": "Black Beard"
     }
   ]
 }

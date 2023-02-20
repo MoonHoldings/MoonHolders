@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Yellow"
     },
     {
       "trait_type": "Skin",
-      "value": "Rose"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Moustache"
+      "value": "Peach"
     },
     {
       "trait_type": "Eyes",
-      "value": "Glasses"
+      "value": "Stoned"
     },
     {
       "trait_type": "Head",
-      "value": "None"
+      "value": "Fiat"
     },
     {
       "trait_type": "Body",
-      "value": "Black T-shirt"
+      "value": "Blue Puffer Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
     }
   ]
 }

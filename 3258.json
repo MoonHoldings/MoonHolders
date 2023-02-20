@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Solana City"
     },
     {
       "trait_type": "Skin",
-      "value": "Pitch"
+      "value": "Psychedelic"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Wink"
+      "value": "Mascara Sad"
     },
     {
       "trait_type": "Head",
-      "value": "Pirate Hat"
+      "value": "Fiat"
     },
     {
       "trait_type": "Body",
-      "value": "Red Hawaiian Shirt"
+      "value": "Jumper Jacket"
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "edition": 5472,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antenna"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Jumper Jacket"
+    }
+  ]
+}

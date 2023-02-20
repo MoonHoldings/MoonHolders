@@ -1,0 +1,29 @@
+{
+  "edition": 4234,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Three White Soldiers"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tesla Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    }
+  ]
+}

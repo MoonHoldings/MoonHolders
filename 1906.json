@@ -1,0 +1,29 @@
+{
+  "edition": 1906,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smug"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange T-shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Beard"
+    }
+  ]
+}

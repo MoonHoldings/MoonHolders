@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Grey"
+      "value": "Yellow"
     },
     {
       "trait_type": "Skin",
-      "value": "Diamond"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Mascara Wink"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Mohawk Rainbow"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Black T-shirt"
+      "value": "Rose"
     },
     {
       "trait_type": "Mouth",
-      "value": "Rainbow Tongue"
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Military Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "edition": 3353,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

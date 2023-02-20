@@ -1,0 +1,29 @@
+{
+  "edition": 3004,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giggle"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stoned"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black T-shirt"
+    }
+  ]
+}

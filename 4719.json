@@ -1,0 +1,29 @@
+{
+  "edition": 4719,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Shooting Stars"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stoned"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black T-shirt"
+    }
+  ]
+}

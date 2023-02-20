@@ -1,0 +1,29 @@
+{
+  "edition": 3710,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Shooting Stars"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mummy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

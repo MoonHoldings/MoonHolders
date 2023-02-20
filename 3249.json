@@ -1,0 +1,29 @@
+{
+  "edition": 3249,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

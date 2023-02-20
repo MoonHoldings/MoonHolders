@@ -1,0 +1,29 @@
+{
+  "edition": 2671,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nouns"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ram Horns"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "edition": 5114,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giggle"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stoned"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Puffer Jacket"
+    }
+  ]
+}

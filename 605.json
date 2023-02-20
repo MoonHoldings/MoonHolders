@@ -1,0 +1,29 @@
+{
+  "edition": 605,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solana City"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fiat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Turtle Neck"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Beard"
+    }
+  ]
+}

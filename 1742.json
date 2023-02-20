@@ -1,0 +1,29 @@
+{
+  "edition": 1742,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

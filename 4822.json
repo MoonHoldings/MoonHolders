@@ -1,0 +1,29 @@
+{
+  "edition": 4822,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red T-shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

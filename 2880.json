@@ -1,0 +1,29 @@
+{
+  "edition": 2880,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Three White Soldiers"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

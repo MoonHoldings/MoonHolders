@@ -1,0 +1,29 @@
+{
+  "edition": 3819,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giggle"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Morning Star Doji"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "edition": 1166,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White T-shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Tongue"
+    }
+  ]
+}

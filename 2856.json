@@ -1,0 +1,29 @@
+{
+  "edition": 2856,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deep Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green Puffer Jacket"
+    }
+  ]
+}

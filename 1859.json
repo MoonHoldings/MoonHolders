@@ -1,0 +1,29 @@
+{
+  "edition": 1859,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Meme Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Military Helmet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

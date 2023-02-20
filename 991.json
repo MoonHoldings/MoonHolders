@@ -1,0 +1,29 @@
+{
+  "edition": 991,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Turtle Neck"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "edition": 1399,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Devil Horns"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tesla Jacket"
+    }
+  ]
+}

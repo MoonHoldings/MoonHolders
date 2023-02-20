@@ -1,0 +1,29 @@
+{
+  "edition": 839,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "100"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Hawaiian Shirt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "edition": 3599,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Turtle Neck"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "White Beard"
+    }
+  ]
+}

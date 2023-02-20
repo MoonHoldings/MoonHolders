@@ -1,0 +1,29 @@
+{
+  "edition": 539,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Baby"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

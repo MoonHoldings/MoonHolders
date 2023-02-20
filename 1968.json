@@ -1,0 +1,29 @@
+{
+  "edition": 1968,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red T-shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Viking"
+    }
+  ]
+}

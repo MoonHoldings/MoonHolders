@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Green"
+      "value": "Yellow"
     },
     {
       "trait_type": "Skin",
-      "value": "Psychedelic"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Zombie"
     },
     {
       "trait_type": "Eyes",
-      "value": "Glasses"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
-      "value": "Pyramid"
+      "value": "Pirate Hat"
     },
     {
       "trait_type": "Body",
-      "value": "Blue T-shirt"
+      "value": "Space Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
     }
   ]
 }

@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Yellow"
+      "value": "Purple"
     },
     {
       "trait_type": "Skin",
-      "value": "Green"
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
     },
     {
       "trait_type": "Eyes",
-      "value": "Mascara Relaxed"
+      "value": "Smug"
     },
     {
       "trait_type": "Head",
-      "value": "Solana"
+      "value": "Red Cap"
     },
     {
       "trait_type": "Body",
       "value": "Black Suit"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Black Beard"
     }
   ]
 }

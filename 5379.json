@@ -1,0 +1,29 @@
+{
+  "edition": 5379,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mummy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Meme Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Om"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

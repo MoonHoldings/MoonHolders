@@ -1,0 +1,29 @@
+{
+  "edition": 3875,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ram Horns"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

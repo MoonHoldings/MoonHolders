@@ -1,0 +1,29 @@
+{
+  "edition": 2303,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mummy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Baby"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Hawaiian Shirt"
+    }
+  ]
+}

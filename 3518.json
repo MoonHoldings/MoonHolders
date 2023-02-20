@@ -1,0 +1,29 @@
+{
+  "edition": 3518,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solana City"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Hologram Googles"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Desert Military Helmet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

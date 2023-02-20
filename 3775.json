@@ -1,0 +1,29 @@
+{
+  "edition": 3775,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Antenna"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

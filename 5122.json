@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Lavender"
+      "value": "Orange"
     },
     {
       "trait_type": "Skin",
-      "value": "Psychedelic"
+      "value": "Robot"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Shocked"
+      "value": "Mascara Wink"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "None"
     },
     {
       "trait_type": "Body",
-      "value": "Black T-shirt"
+      "value": "None"
     }
   ]
 }

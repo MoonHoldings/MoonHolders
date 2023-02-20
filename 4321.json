@@ -1,0 +1,29 @@
+{
+  "edition": 4321,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deep Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ram Horns"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tesla Jacket"
+    }
+  ]
+}

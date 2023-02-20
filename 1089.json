@@ -1,0 +1,29 @@
+{
+  "edition": 1089,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Hawaiian Shirt"
+    }
+  ]
+}

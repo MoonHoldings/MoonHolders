@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Blue"
+      "value": "Green"
     },
     {
       "trait_type": "Skin",
-      "value": "Rust"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Psychedelic"
     },
     {
       "trait_type": "Eyes",
-      "value": "Mascara Relaxed"
+      "value": "Nouns"
     },
     {
       "trait_type": "Head",
-      "value": "Bunny Ears"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Body",
-      "value": "Orange T-shirt"
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
     }
   ]
 }

@@ -3,15 +3,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Grey"
+      "value": "Yellow"
     },
     {
       "trait_type": "Skin",
-      "value": "Green"
+      "value": "Red"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Eyes",
@@ -19,11 +19,11 @@
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Body",
-      "value": "Jumper Jacket"
+      "value": "Blue T-shirt"
     }
   ]
 }

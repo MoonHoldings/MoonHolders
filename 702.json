@@ -1,0 +1,29 @@
+{
+  "edition": 702,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Devil Horns"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

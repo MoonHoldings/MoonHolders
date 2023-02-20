@@ -1,0 +1,29 @@
+{
+  "edition": 3649,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bullish Harami"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue T-shirt"
+    }
+  ]
+}

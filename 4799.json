@@ -1,0 +1,29 @@
+{
+  "edition": 4799,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solana City"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Hawaiian Shirt"
+    }
+  ]
+}

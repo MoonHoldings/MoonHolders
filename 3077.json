@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Grey"
+      "value": "Pink"
     },
     {
       "trait_type": "Skin",
-      "value": "Rose"
+      "value": "Mummy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Silly"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyes",
-      "value": "Fire"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
-      "value": "Ram Horns"
+      "value": "Om"
     },
     {
       "trait_type": "Body",
-      "value": "White T-shirt"
+      "value": "None"
     }
   ]
 }

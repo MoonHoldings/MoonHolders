@@ -1,0 +1,29 @@
+{
+  "edition": 973,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giggle"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Hologram Googles"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Desert Military Helmet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

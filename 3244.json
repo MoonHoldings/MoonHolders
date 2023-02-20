@@ -1,0 +1,29 @@
+{
+  "edition": 3244,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Meme Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien Baby"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange T-shirt"
+    }
+  ]
+}

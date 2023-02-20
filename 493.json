@@ -1,0 +1,29 @@
+{
+  "edition": 493,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Shooting Stars"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

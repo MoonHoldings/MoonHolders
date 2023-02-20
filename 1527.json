@@ -1,0 +1,29 @@
+{
+  "edition": 1527,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bunny Ears"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange T-shirt"
+    }
+  ]
+}

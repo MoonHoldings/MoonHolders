@@ -1,0 +1,29 @@
+{
+  "edition": 4009,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Top Hat"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Astral Armor"
+    }
+  ]
+}

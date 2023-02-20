@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Lavender"
+      "value": "Orange"
     },
     {
       "trait_type": "Skin",
-      "value": "Rose"
+      "value": "Green"
     },
     {
       "trait_type": "Mouth",
-      "value": "Relaxed"
+      "value": "Smirk"
     },
     {
       "trait_type": "Eyes",
-      "value": "Meme Sunglasses"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
-      "value": "Morning Star Doji"
+      "value": "None"
     },
     {
       "trait_type": "Body",
-      "value": "Black Suit"
+      "value": "None"
     }
   ]
 }

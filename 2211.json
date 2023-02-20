@@ -1,0 +1,29 @@
+{
+  "edition": 2211,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Wink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pyramid"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cyber Armor"
+    }
+  ]
+}

@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Lavender"
     },
     {
       "trait_type": "Skin",
-      "value": "Skeleton"
+      "value": "Psychedelic"
     },
     {
       "trait_type": "Mouth",
-      "value": "Bite"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyes",
-      "value": "Red Sunglasses"
+      "value": "Laser Eyes"
     },
     {
       "trait_type": "Head",
-      "value": "Mohawk Blue"
+      "value": "100"
     },
     {
       "trait_type": "Body",
-      "value": "None"
+      "value": "Green Puffer Jacket"
     }
   ]
 }

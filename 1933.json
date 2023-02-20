@@ -1,0 +1,29 @@
+{
+  "edition": 1933,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deep Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nouns"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Desert Military Helmet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

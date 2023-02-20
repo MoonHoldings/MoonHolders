@@ -1,0 +1,29 @@
+{
+  "edition": 2315,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giggle"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink Hologram Googles"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Morning Star Doji"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

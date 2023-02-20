@@ -1,0 +1,29 @@
+{
+  "edition": 1134,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Giggle"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "100"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

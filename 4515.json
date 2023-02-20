@@ -1,0 +1,29 @@
+{
+  "edition": 4515,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Astral Armor"
+    }
+  ]
+}

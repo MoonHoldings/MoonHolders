@@ -3,19 +3,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Deep Blue"
+      "value": "Green"
     },
     {
       "trait_type": "Skin",
-      "value": "Rose"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Robot"
     },
     {
       "trait_type": "Eyes",
-      "value": "Fire"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
@@ -23,7 +19,11 @@
     },
     {
       "trait_type": "Body",
-      "value": "White T-shirt"
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
     }
   ]
 }

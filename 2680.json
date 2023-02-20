@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Deep Blue"
+      "value": "Lavender"
     },
     {
       "trait_type": "Skin",
-      "value": "Rose"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Relaxed"
+      "value": "Gold"
     },
     {
       "trait_type": "Eyes",
-      "value": "Relaxed"
+      "value": "Wink"
     },
     {
       "trait_type": "Head",
-      "value": "Halo"
+      "value": "Green Military Helmet"
     },
     {
       "trait_type": "Body",
-      "value": "Orange T-shirt"
+      "value": "Alien Armor"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
     }
   ]
 }

@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Shooting Stars"
+      "value": "Green"
     },
     {
       "trait_type": "Skin",
-      "value": "Rose"
+      "value": "Red"
     },
     {
       "trait_type": "Eyes",
-      "value": "Smug"
+      "value": "Meme Sunglasses"
     },
     {
       "trait_type": "Head",
-      "value": "None"
+      "value": "Octopus"
     },
     {
       "trait_type": "Body",
-      "value": "Black Suit"
+      "value": "Black Turtle Neck"
     },
     {
       "trait_type": "Mouth",
-      "value": "Vape"
+      "value": "Black Beard"
     }
   ]
 }

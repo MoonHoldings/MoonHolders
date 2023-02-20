@@ -1,0 +1,29 @@
+{
+  "edition": 4123,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smug"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bitcoin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

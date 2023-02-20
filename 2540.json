@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Green"
+      "value": "Green"
     },
     {
       "trait_type": "Skin",
-      "value": "Rust"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Smug"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Crown"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Tesla Jacket"
+      "value": "Gold"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lollipop"
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
     }
   ]
 }

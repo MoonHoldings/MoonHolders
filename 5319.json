@@ -1,0 +1,29 @@
+{
+  "edition": 5319,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange T-shirt"
+    }
+  ]
+}

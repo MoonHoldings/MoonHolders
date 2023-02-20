@@ -3,15 +3,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Deep Blue"
+      "value": "Red"
     },
     {
       "trait_type": "Skin",
-      "value": "Psychedelic"
+      "value": "Rust"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Eyes",
@@ -19,11 +19,11 @@
     },
     {
       "trait_type": "Head",
-      "value": "Dollar Signs"
+      "value": "None"
     },
     {
       "trait_type": "Body",
-      "value": "Black Turtle Neck"
+      "value": "Tesla Jacket"
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "edition": 2840,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mummy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bitcoin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue T-shirt"
+    }
+  ]
+}

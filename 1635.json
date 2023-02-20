@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Green"
+      "value": "Red"
     },
     {
       "trait_type": "Skin",
       "value": "Psychedelic"
     },
     {
+      "trait_type": "Mouth",
+      "value": "Giggle"
+    },
+    {
       "trait_type": "Eyes",
-      "value": "Wink"
+      "value": "Mascara Wink"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Purple Cap"
     },
     {
       "trait_type": "Body",
-      "value": "None"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Black Beard"
+      "value": "Blue Hawaiian Shirt"
     }
   ]
 }

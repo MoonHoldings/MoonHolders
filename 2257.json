@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Yellow"
+      "value": "Shooting Stars"
     },
     {
       "trait_type": "Skin",
-      "value": "Green"
+      "value": "Peach"
     },
     {
       "trait_type": "Mouth",
-      "value": "Silly"
+      "value": "Laugh"
     },
     {
       "trait_type": "Eyes",
-      "value": "Relaxed"
+      "value": "Sleepy"
     },
     {
       "trait_type": "Head",
-      "value": "Blue Cap"
+      "value": "Fiat"
     },
     {
       "trait_type": "Body",
-      "value": "Blue T-shirt"
+      "value": "None"
     }
   ]
 }

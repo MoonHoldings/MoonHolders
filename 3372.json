@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Yellow"
+      "value": "Pink"
     },
     {
       "trait_type": "Skin",
-      "value": "Pitch"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Laser Eyes"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Octopus"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Black T-shirt"
+      "value": "Psychedelic"
     },
     {
       "trait_type": "Mouth",
-      "value": "Black Beard"
+      "value": "Giggle"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Puffer Jacket"
     }
   ]
 }

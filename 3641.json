@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Shooting Stars"
+      "value": "Light Blue"
     },
     {
       "trait_type": "Skin",
-      "value": "Green"
+      "value": "Peach"
     },
     {
       "trait_type": "Mouth",
-      "value": "Blue Goatee"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Stoned"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
-      "value": "Mohawk Blue"
+      "value": "Octopus"
     },
     {
       "trait_type": "Body",
-      "value": "Alien Armor"
+      "value": "Tesla Jacket"
     }
   ]
 }

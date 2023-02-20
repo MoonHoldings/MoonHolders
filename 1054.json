@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Blue"
+      "value": "Lavender"
     },
     {
       "trait_type": "Skin",
-      "value": "Rose"
+      "value": "Mummy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Moustache"
-    },
-    {
-      "trait_type": "Eyes",
       "value": "Relaxed"
     },
     {
+      "trait_type": "Eyes",
+      "value": "Shocked"
+    },
+    {
       "trait_type": "Head",
-      "value": "Mohawk Red"
+      "value": "Bunny Ears"
     },
     {
       "trait_type": "Body",
-      "value": "Red T-shirt"
+      "value": "White T-shirt"
     }
   ]
 }

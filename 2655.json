@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Green"
+      "value": "Lavender"
     },
     {
       "trait_type": "Skin",
-      "value": "Pitch"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Closed"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Military Cap"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Blue T-shirt"
+      "value": "Robot"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lollipop"
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bullish Harami"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
     }
   ]
 }

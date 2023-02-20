@@ -1,0 +1,29 @@
+{
+  "edition": 2160,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Alien Armor"
+    }
+  ]
+}

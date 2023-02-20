@@ -3,7 +3,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Shooting Stars"
+      "value": "Solana City"
     },
     {
       "trait_type": "Skin",
@@ -11,19 +11,19 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Big Smile Open Mouth"
+      "value": "Smirk"
     },
     {
       "trait_type": "Eyes",
-      "value": "Wink"
+      "value": "Mascara Stoned"
     },
     {
       "trait_type": "Head",
-      "value": "100"
+      "value": "Desert Military Helmet"
     },
     {
       "trait_type": "Body",
-      "value": "Apollo Space Suit"
+      "value": "Red T-shirt"
     }
   ]
 }

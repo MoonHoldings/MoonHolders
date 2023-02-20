@@ -1,0 +1,29 @@
+{
+  "edition": 1947,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

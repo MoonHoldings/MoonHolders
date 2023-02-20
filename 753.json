@@ -1,0 +1,29 @@
+{
+  "edition": 753,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smug"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White T-shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Tongue"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "edition": 2812,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stoned"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ethereum"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

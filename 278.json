@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Lavender"
+      "value": "Deep Blue"
     },
     {
       "trait_type": "Skin",
-      "value": "Rose"
+      "value": "Mummy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Moustache"
+      "value": "Grin"
     },
     {
       "trait_type": "Eyes",
-      "value": "Smug"
+      "value": "Meme Sunglasses"
     },
     {
       "trait_type": "Head",
-      "value": "Beanie"
+      "value": "Halo"
     },
     {
       "trait_type": "Body",
-      "value": "Orange T-shirt"
+      "value": "Orange Puffer Jacket"
     }
   ]
 }

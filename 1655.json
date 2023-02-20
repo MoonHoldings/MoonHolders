@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Yellow"
+      "value": "Green"
     },
     {
       "trait_type": "Skin",
-      "value": "Rust"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Big Smile Teeth"
+      "value": "Peach"
     },
     {
       "trait_type": "Eyes",
-      "value": "Mascara Wink"
+      "value": "Wink"
     },
     {
       "trait_type": "Head",
-      "value": "Purple Cap"
+      "value": "None"
     },
     {
       "trait_type": "Body",
-      "value": "Blue T-shirt"
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "White Beard"
     }
   ]
 }

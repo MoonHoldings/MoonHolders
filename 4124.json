@@ -1,0 +1,29 @@
+{
+  "edition": 4124,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fu Manchu"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stoned"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Morning Star Doji"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

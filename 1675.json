@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Purple"
     },
     {
       "trait_type": "Skin",
-      "value": "Rose"
+      "value": "Mummy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Big Smile Teeth"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Mascara Shocked"
     },
     {
       "trait_type": "Head",
-      "value": "Mohawk Black"
+      "value": "None"
     },
     {
       "trait_type": "Body",
-      "value": "Black Suit"
+      "value": "Tesla Jacket"
     }
   ]
 }

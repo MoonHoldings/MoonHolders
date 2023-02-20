@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Shooting Stars"
-    },
-    {
-      "trait_type": "Skin",
       "value": "Red"
     },
     {
-      "trait_type": "Mouth",
-      "value": "Big Smile Teeth"
+      "trait_type": "Skin",
+      "value": "Rust"
     },
     {
-      "trait_type": "Eyes",
+      "trait_type": "Mouth",
       "value": "Relaxed"
     },
     {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
       "trait_type": "Head",
-      "value": "None"
+      "value": "Top Hat"
     },
     {
       "trait_type": "Body",
-      "value": "Blue T-shirt"
+      "value": "None"
     }
   ]
 }

@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Green"
+      "value": "Solana"
     },
     {
       "trait_type": "Skin",
-      "value": "Rust"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Big Smile Teeth"
+      "value": "Rose"
     },
     {
       "trait_type": "Eyes",
-      "value": "Mascara Stoned"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Antenna"
     },
     {
       "trait_type": "Body",
-      "value": "Tesla Jacket"
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
     }
   ]
 }

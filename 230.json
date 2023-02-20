@@ -1,0 +1,29 @@
+{
+  "edition": 230,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Sleepy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

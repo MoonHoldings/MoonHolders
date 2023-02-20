@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Lavender"
     },
     {
       "trait_type": "Skin",
-      "value": "Green"
+      "value": "Peach"
     },
     {
       "trait_type": "Mouth",
-      "value": "Big Smile Open Mouth"
+      "value": "Tongue Out"
     },
     {
       "trait_type": "Eyes",
-      "value": "Mascara Sleepy"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
-      "value": "Bitcoin"
+      "value": "Halo"
     },
     {
       "trait_type": "Body",
-      "value": "Black Suit"
+      "value": "None"
     }
   ]
 }

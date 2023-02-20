@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Lavender"
+      "value": "Solana City"
     },
     {
       "trait_type": "Skin",
-      "value": "Zombie"
+      "value": "Diamond"
     },
     {
       "trait_type": "Mouth",
-      "value": "Big Smile Open Mouth"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Diamond"
     },
     {
       "trait_type": "Head",
-      "value": "Ethereum"
+      "value": "Octopus"
     },
     {
       "trait_type": "Body",
-      "value": "None"
+      "value": "Blue Puffer Jacket"
     }
   ]
 }

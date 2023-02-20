@@ -1,0 +1,29 @@
+{
+  "edition": 2191,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bullish Harami"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

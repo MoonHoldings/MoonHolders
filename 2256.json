@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
-    },
-    {
-      "trait_type": "Skin",
       "value": "Green"
     },
     {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
       "trait_type": "Mouth",
-      "value": "Relaxed"
+      "value": "Smirk"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Mascara Sad"
     },
     {
       "trait_type": "Head",
-      "value": "Desert Military Helmet"
+      "value": "Pirate Hat"
     },
     {
       "trait_type": "Body",
-      "value": "Blue T-shirt"
+      "value": "Red T-shirt"
     }
   ]
 }

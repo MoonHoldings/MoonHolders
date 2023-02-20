@@ -1,0 +1,29 @@
+{
+  "edition": 1486,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deep Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Meme Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Space Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Goatee"
+    }
+  ]
+}

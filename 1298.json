@@ -1,0 +1,29 @@
+{
+  "edition": 1298,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Ram Horns"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Space Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
+    }
+  ]
+}

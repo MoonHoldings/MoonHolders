@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Red"
+      "value": "Green"
     },
     {
       "trait_type": "Skin",
-      "value": "Pitch"
+      "value": "Robot"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Smirk"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Mascara Sad"
     },
     {
       "trait_type": "Head",
-      "value": "Red Cap"
+      "value": "None"
     },
     {
       "trait_type": "Body",
-      "value": "Red T-shirt"
+      "value": "None"
     }
   ]
 }

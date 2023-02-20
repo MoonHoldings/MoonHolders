@@ -3,7 +3,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Lavender"
+      "value": "Light Blue"
     },
     {
       "trait_type": "Skin",
@@ -15,15 +15,15 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Fire"
+      "value": "Green Sunglasses"
     },
     {
       "trait_type": "Head",
-      "value": "Mohawk Blue"
+      "value": "Bunny Ears"
     },
     {
       "trait_type": "Body",
-      "value": "Black T-shirt"
+      "value": "None"
     }
   ]
 }

@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Solana"
     },
     {
       "trait_type": "Skin",
       "value": "Rust"
     },
     {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Smug"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
-    },
-    {
-      "trait_type": "Body",
       "value": "None"
     },
     {
-      "trait_type": "Mouth",
-      "value": "Black Beard"
+      "trait_type": "Body",
+      "value": "Robotic Armor"
     }
   ]
 }

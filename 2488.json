@@ -3,15 +3,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Orange"
+      "value": "Pink"
     },
     {
       "trait_type": "Skin",
-      "value": "Rose"
+      "value": "Green"
     },
     {
       "trait_type": "Eyes",
-      "value": "Mascara Stoned"
+      "value": "Mascara Relaxed"
     },
     {
       "trait_type": "Head",
@@ -19,11 +19,11 @@
     },
     {
       "trait_type": "Body",
-      "value": "None"
+      "value": "Orange T-shirt"
     },
     {
       "trait_type": "Mouth",
-      "value": "Viking"
+      "value": "Rainbow Tongue"
     }
   ]
 }

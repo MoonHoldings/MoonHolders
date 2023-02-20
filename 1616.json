@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Shooting Stars"
     },
     {
       "trait_type": "Skin",
-      "value": "Pitch"
+      "value": "Peach"
     },
     {
       "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Smirk"
     },
     {
       "trait_type": "Eyes",
-      "value": "Relaxed"
+      "value": "Fire"
     },
     {
       "trait_type": "Head",
-      "value": "Om"
+      "value": "None"
     },
     {
       "trait_type": "Body",
-      "value": "Alien Armor"
+      "value": "None"
     }
   ]
 }

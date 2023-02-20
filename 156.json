@@ -3,15 +3,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Green"
+      "value": "Orange"
     },
     {
       "trait_type": "Skin",
-      "value": "Candy"
+      "value": "Peach"
     },
     {
       "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Smirk"
     },
     {
       "trait_type": "Eyes",
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "None"
+      "value": "100"
     },
     {
       "trait_type": "Body",

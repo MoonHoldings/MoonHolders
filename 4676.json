@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Yellow"
+      "value": "Lavender"
     },
     {
       "trait_type": "Skin",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Mascara Stoned"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Mohawk Red"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Black Turtle Neck"
+      "value": "Candy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Rainbow Tongue"
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black T-shirt"
     }
   ]
 }

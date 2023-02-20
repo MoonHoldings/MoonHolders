@@ -3,7 +3,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Grey"
+      "value": "Red"
     },
     {
       "trait_type": "Skin",
@@ -15,15 +15,15 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Electric"
+      "value": "Wink"
     },
     {
       "trait_type": "Head",
-      "value": "Antenna"
+      "value": "Octopus"
     },
     {
       "trait_type": "Body",
-      "value": "Blue T-shirt"
+      "value": "Cyber Armor"
     }
   ]
 }

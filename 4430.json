@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Solana City"
+      "value": "Orange"
     },
     {
       "trait_type": "Skin",
-      "value": "Rust"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Zombie"
     },
     {
       "trait_type": "Eyes",
-      "value": "Smug"
+      "value": "Wink"
     },
     {
       "trait_type": "Head",
-      "value": "Bitcoin"
+      "value": "Fiat"
     },
     {
       "trait_type": "Body",
-      "value": "Black Turtle Neck"
+      "value": "Blue Puffer Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
     }
   ]
 }

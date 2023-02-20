@@ -1,0 +1,29 @@
+{
+  "edition": 521,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "edition": 1327,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Turtle Neck"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blue Goatee"
+    }
+  ]
+}

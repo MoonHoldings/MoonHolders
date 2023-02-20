@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Green"
+      "value": "Green"
     },
     {
       "trait_type": "Skin",
-      "value": "Rust"
+      "value": "Diamond"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Grin"
     },
     {
       "trait_type": "Eyes",
-      "value": "Relaxed"
+      "value": "Fire"
     },
     {
       "trait_type": "Head",
-      "value": "Mohawk Black"
+      "value": "Ram Horns"
     },
     {
       "trait_type": "Body",
-      "value": "White T-shirt"
+      "value": "None"
     }
   ]
 }

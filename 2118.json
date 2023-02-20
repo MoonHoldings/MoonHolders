@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple"
+      "value": "Green"
     },
     {
       "trait_type": "Skin",
-      "value": "Rose"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Closed"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Pirate Hat"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Apollo Space Suit"
+      "value": "Mummy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Viking"
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Cap"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
     }
   ]
 }

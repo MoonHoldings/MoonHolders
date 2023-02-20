@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Grey"
+      "value": "Orange"
     },
     {
       "trait_type": "Skin",
-      "value": "Pitch"
+      "value": "Peach"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Tongue Out"
     },
     {
       "trait_type": "Eyes",
-      "value": "Relaxed"
+      "value": "Sleepy"
     },
     {
       "trait_type": "Head",
-      "value": "Purple Cap"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Body",
-      "value": "White T-shirt"
+      "value": "Blue Puffer Jacket"
     }
   ]
 }

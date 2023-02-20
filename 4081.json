@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Deep Blue"
+      "value": "Pink"
     },
     {
       "trait_type": "Skin",
-      "value": "Rose"
+      "value": "Skeleton"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Smirk"
     },
     {
       "trait_type": "Eyes",
-      "value": "Relaxed"
+      "value": "Laser Eyes"
     },
     {
       "trait_type": "Head",
-      "value": "Military Cap"
+      "value": "Octopus"
     },
     {
       "trait_type": "Body",
-      "value": "Black Suit"
+      "value": "None"
     }
   ]
 }

@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Blue"
+      "value": "Solana City"
     },
     {
       "trait_type": "Skin",
-      "value": "Pitch"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Closed"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Octopus"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Alien Armor"
+      "value": "Rust"
     },
     {
       "trait_type": "Mouth",
-      "value": "Fu Manchu"
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
     }
   ]
 }

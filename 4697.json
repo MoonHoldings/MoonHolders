@@ -3,7 +3,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Grey"
+      "value": "Lavender"
     },
     {
       "trait_type": "Skin",
@@ -11,19 +11,19 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Relaxed"
+      "value": "Giggle"
     },
     {
       "trait_type": "Eyes",
-      "value": "Stoned"
+      "value": "Diamond"
     },
     {
       "trait_type": "Head",
-      "value": "Devil Horns"
+      "value": "Ram Horns"
     },
     {
       "trait_type": "Body",
-      "value": "Black Turtle Neck"
+      "value": "Green Puffer Jacket"
     }
   ]
 }

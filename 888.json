@@ -1,0 +1,29 @@
+{
+  "edition": 888,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Meme Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk Pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

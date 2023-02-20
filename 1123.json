@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Green"
+      "value": "Purple"
     },
     {
       "trait_type": "Skin",
-      "value": "Gold"
+      "value": "Skeleton"
     },
     {
       "trait_type": "Mouth",
-      "value": "Big Smile Teeth"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyes",
-      "value": "Relaxed"
+      "value": "Laser Eyes"
     },
     {
       "trait_type": "Head",
-      "value": "Red Cap"
+      "value": "None"
     },
     {
       "trait_type": "Body",
-      "value": "Red Hawaiian Shirt"
+      "value": "None"
     }
   ]
 }

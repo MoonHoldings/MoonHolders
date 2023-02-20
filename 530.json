@@ -3,15 +3,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Yellow"
+      "value": "Green"
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
+      "value": "Candy"
     },
     {
       "trait_type": "Eyes",
-      "value": "Meme Sunglasses"
+      "value": "Nouns"
     },
     {
       "trait_type": "Head",
@@ -19,11 +19,11 @@
     },
     {
       "trait_type": "Body",
-      "value": "None"
+      "value": "Black T-shirt"
     },
     {
       "trait_type": "Mouth",
-      "value": "Joint"
+      "value": "Black Beard"
     }
   ]
 }

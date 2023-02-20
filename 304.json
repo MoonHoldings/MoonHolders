@@ -7,23 +7,23 @@
     },
     {
       "trait_type": "Skin",
-      "value": "Robot"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Mascara Relaxed"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Military Cap"
-    },
-    {
-      "trait_type": "Body",
-      "value": "None"
+      "value": "Gold"
     },
     {
       "trait_type": "Mouth",
-      "value": "White Beard"
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Desert Military Helmet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Hawaiian Shirt"
     }
   ]
 }

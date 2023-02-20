@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Grey"
+      "value": "Pink"
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Red Sunglasses"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Mohawk Black"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Jumper Jacket"
+      "value": "Green"
     },
     {
       "trait_type": "Mouth",
-      "value": "Black Goatee"
+      "value": "Relaxed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mascara Shocked"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
     }
   ]
 }

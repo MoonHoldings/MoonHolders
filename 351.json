@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Grey"
+      "value": "Yellow"
     },
     {
       "trait_type": "Skin",
-      "value": "Pitch"
+      "value": "Mummy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Silly"
+      "value": "Laugh"
     },
     {
       "trait_type": "Eyes",
-      "value": "Red Sunglasses"
+      "value": "Mascara Stoned"
     },
     {
       "trait_type": "Head",
-      "value": "Octopus"
+      "value": "Mohawk Rainbow"
     },
     {
       "trait_type": "Body",
-      "value": "Red Hawaiian Shirt"
+      "value": "Space Suit"
     }
   ]
 }

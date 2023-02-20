@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Green"
     },
     {
       "trait_type": "Skin",
-      "value": "Robot"
+      "value": "Psychedelic"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
     },
     {
       "trait_type": "Eyes",
-      "value": "Smug"
+      "value": "Green Sunglasses"
     },
     {
       "trait_type": "Head",
-      "value": "Crown"
+      "value": "Pirate Hat"
     },
     {
       "trait_type": "Body",
       "value": "None"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "White Beard"
     }
   ]
 }

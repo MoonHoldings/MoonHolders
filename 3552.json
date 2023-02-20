@@ -3,15 +3,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Grey"
+      "value": "Orange"
     },
     {
       "trait_type": "Skin",
-      "value": "Rose"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Silly"
+      "value": "Skeleton"
     },
     {
       "trait_type": "Eyes",
@@ -19,11 +15,15 @@
     },
     {
       "trait_type": "Head",
-      "value": "Red Cap"
+      "value": "Military Cap"
     },
     {
       "trait_type": "Body",
-      "value": "Black Turtle Neck"
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
     }
   ]
 }

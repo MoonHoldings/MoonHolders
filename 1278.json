@@ -3,11 +3,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Grey"
+      "value": "Pink"
     },
     {
       "trait_type": "Skin",
-      "value": "Pitch"
+      "value": "Rose"
     },
     {
       "trait_type": "Mouth",
@@ -15,15 +15,15 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Mascara Stoned"
+      "value": "Meme Sunglasses"
     },
     {
       "trait_type": "Head",
-      "value": "Mohawk Rainbow"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Body",
-      "value": "White T-shirt"
+      "value": "Orange Puffer Jacket"
     }
   ]
 }

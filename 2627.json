@@ -3,7 +3,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Green"
     },
     {
       "trait_type": "Skin",
@@ -11,19 +11,19 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Fire"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
-      "value": "Mohawk Black"
+      "value": "Pirate Hat"
     },
     {
       "trait_type": "Body",
-      "value": "Astral Armor"
+      "value": "None"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Grey"
+      "value": "Green"
     },
     {
       "trait_type": "Skin",
@@ -11,7 +11,7 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Eyes",
@@ -19,11 +19,11 @@
     },
     {
       "trait_type": "Head",
-      "value": "Halo"
+      "value": "Blue Cap"
     },
     {
       "trait_type": "Body",
-      "value": "None"
+      "value": "Orange Puffer Jacket"
     }
   ]
 }

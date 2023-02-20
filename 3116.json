@@ -3,11 +3,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Green"
+      "value": "Deep Blue"
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
+      "value": "Green"
     },
     {
       "trait_type": "Mouth",
@@ -15,15 +15,15 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Psychedelic"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
-      "value": "Crown"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Body",
-      "value": "Black Suit"
+      "value": "None"
     }
   ]
 }

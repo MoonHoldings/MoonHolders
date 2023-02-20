@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Grey"
+      "value": "Red"
     },
     {
       "trait_type": "Skin",
-      "value": "Rust"
+      "value": "Rose"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Laugh"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Sleepy"
     },
     {
       "trait_type": "Head",
-      "value": "Mohawk Rainbow"
+      "value": "Alien Baby"
     },
     {
       "trait_type": "Body",
-      "value": "Black Turtle Neck"
+      "value": "Black T-shirt"
     }
   ]
 }

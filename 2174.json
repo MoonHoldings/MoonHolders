@@ -1,0 +1,29 @@
+{
+  "edition": 2174,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Skeleton"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "None"
+    }
+  ]
+}

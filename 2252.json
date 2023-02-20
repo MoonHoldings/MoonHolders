@@ -3,19 +3,19 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Blue"
+      "value": "Lavender"
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
+      "value": "Green"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Smirk"
     },
     {
       "trait_type": "Eyes",
-      "value": "Electric"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Black Suit"
+      "value": "None"
     }
   ]
 }

@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Grey"
+      "value": "Green"
     },
     {
       "trait_type": "Skin",
-      "value": "Rose"
+      "value": "Candy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Big Smile Teeth"
+      "value": "Smirk"
     },
     {
       "trait_type": "Eyes",
-      "value": "Relaxed"
+      "value": "Smug"
     },
     {
       "trait_type": "Head",
-      "value": "Blue Cap"
+      "value": "Red Cap"
     },
     {
       "trait_type": "Body",
-      "value": "Blue Puffer Jacket"
+      "value": "Red Hawaiian Shirt"
     }
   ]
 }

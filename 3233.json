@@ -3,7 +3,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Green"
+      "value": "Red"
     },
     {
       "trait_type": "Skin",
@@ -11,11 +11,11 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Big Smile Teeth"
+      "value": "Giggle"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Angry"
     },
     {
       "trait_type": "Head",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Orange T-shirt"
+      "value": "None"
     }
   ]
 }

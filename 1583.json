@@ -3,11 +3,11 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Solana City"
     },
     {
       "trait_type": "Skin",
-      "value": "Candy"
+      "value": "Green"
     },
     {
       "trait_type": "Mouth",
@@ -15,15 +15,15 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Nouns"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
-      "value": "None"
+      "value": "Cowboy Hat"
     },
     {
       "trait_type": "Body",
-      "value": "White T-shirt"
+      "value": "Blue Puffer Jacket"
     }
   ]
 }

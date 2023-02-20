@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Lavender"
+      "value": "Yellow"
     },
     {
       "trait_type": "Skin",
       "value": "Rose"
     },
     {
+      "trait_type": "Mouth",
+      "value": "Relaxed"
+    },
+    {
       "trait_type": "Eyes",
-      "value": "Angry"
+      "value": "Mascara Sad"
     },
     {
       "trait_type": "Head",
-      "value": "Bunny Ears"
+      "value": "100"
     },
     {
       "trait_type": "Body",
       "value": "None"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "White Beard"
     }
   ]
 }

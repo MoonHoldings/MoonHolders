@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Shooting Stars"
+      "value": "Lavender"
     },
     {
       "trait_type": "Skin",
-      "value": "Rose"
+      "value": "Green"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Grin"
     },
     {
       "trait_type": "Eyes",
-      "value": "Stoned"
+      "value": "Shocked"
     },
     {
       "trait_type": "Head",
-      "value": "None"
+      "value": "Mohawk Black"
     },
     {
       "trait_type": "Body",
-      "value": "Apollo Space Suit"
+      "value": "Tesla Jacket"
     }
   ]
 }

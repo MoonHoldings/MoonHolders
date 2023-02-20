@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Green"
+      "value": "Deep Blue"
     },
     {
       "trait_type": "Skin",
-      "value": "Candy"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Relaxed"
+      "value": "Rose"
     },
     {
       "trait_type": "Eyes",
-      "value": "Laser Eyes"
+      "value": "Wink"
     },
     {
       "trait_type": "Head",
-      "value": "Pyramid"
+      "value": "Blue Cap"
     },
     {
       "trait_type": "Body",
       "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
     }
   ]
 }

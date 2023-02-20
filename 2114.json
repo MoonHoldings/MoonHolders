@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Green"
+      "value": "Pink"
     },
     {
       "trait_type": "Skin",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Bite"
+      "value": "Rust"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Electric"
     },
     {
       "trait_type": "Head",
-      "value": "Red Cap"
+      "value": "Purple Cap"
     },
     {
       "trait_type": "Body",
-      "value": "Blue Puffer Jacket"
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
     }
   ]
 }

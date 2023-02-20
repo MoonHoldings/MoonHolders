@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Blue"
+      "value": "Green"
     },
     {
       "trait_type": "Skin",
-      "value": "Pitch"
+      "value": "Mummy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Bite"
+      "value": "Smirk"
     },
     {
       "trait_type": "Eyes",
-      "value": "Stoned"
+      "value": "Wink"
     },
     {
       "trait_type": "Head",
-      "value": "Mohawk Rainbow"
+      "value": "Military Cap"
     },
     {
       "trait_type": "Body",
-      "value": "White T-shirt"
+      "value": "None"
     }
   ]
 }

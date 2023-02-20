@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Purple"
+      "value": "Yellow"
     },
     {
       "trait_type": "Skin",
-      "value": "Pitch"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Big Smile Teeth"
+      "value": "Rose"
     },
     {
       "trait_type": "Eyes",
-      "value": "Relaxed"
+      "value": "Angry"
     },
     {
       "trait_type": "Head",
-      "value": "Mohawk Black"
+      "value": "Halo"
     },
     {
       "trait_type": "Body",
-      "value": "Black Turtle Neck"
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Beard"
     }
   ]
 }

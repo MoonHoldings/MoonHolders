@@ -3,15 +3,15 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Green"
     },
     {
       "trait_type": "Skin",
-      "value": "Pitch"
+      "value": "Skeleton"
     },
     {
       "trait_type": "Mouth",
-      "value": "Silly"
+      "value": "Giggle"
     },
     {
       "trait_type": "Eyes",
@@ -19,11 +19,11 @@
     },
     {
       "trait_type": "Head",
-      "value": "None"
+      "value": "Om"
     },
     {
       "trait_type": "Body",
-      "value": "Jumper Jacket"
+      "value": "None"
     }
   ]
 }

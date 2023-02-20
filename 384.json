@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Blue"
+      "value": "Green"
     },
     {
       "trait_type": "Skin",
-      "value": "Pitch"
+      "value": "Mummy"
     },
     {
       "trait_type": "Eyes",
-      "value": "Relaxed"
+      "value": "Shocked"
     },
     {
       "trait_type": "Head",
-      "value": "Bunny Ears"
+      "value": "None"
     },
     {
       "trait_type": "Body",
-      "value": "Blue T-shirt"
+      "value": "Orange Puffer Jacket"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lollipop"
+      "value": "White Beard"
     }
   ]
 }

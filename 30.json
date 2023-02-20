@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Shooting Stars"
+      "value": "Light Blue"
     },
     {
       "trait_type": "Skin",
-      "value": "Rust"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Relaxed"
+      "value": "Gold"
     },
     {
       "trait_type": "Eyes",
-      "value": "Relaxed"
+      "value": "Sleepy"
     },
     {
       "trait_type": "Head",
-      "value": "Purple Cap"
+      "value": "None"
     },
     {
       "trait_type": "Body",
-      "value": "Blue T-shirt"
+      "value": "Black Turtle Neck"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
     }
   ]
 }

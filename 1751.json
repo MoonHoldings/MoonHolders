@@ -3,7 +3,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Blue"
+      "value": "Deep Blue"
     },
     {
       "trait_type": "Skin",
@@ -11,11 +11,11 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Meme Sunglasses"
+      "value": "Smug"
     },
     {
       "trait_type": "Head",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Black Suit"
+      "value": "Space Suit"
     }
   ]
 }

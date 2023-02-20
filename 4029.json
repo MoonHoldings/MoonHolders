@@ -3,7 +3,7 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Light Blue"
+      "value": "Lavender"
     },
     {
       "trait_type": "Skin",
@@ -11,19 +11,19 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Relaxed"
+      "value": "Moustache"
     },
     {
       "trait_type": "Eyes",
-      "value": "Mascara Wink"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
-      "value": "Bunny Ears"
+      "value": "Military Cap"
     },
     {
       "trait_type": "Body",
-      "value": "None"
+      "value": "White T-shirt"
     }
   ]
 }
