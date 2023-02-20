@@ -1,29 +1,9 @@
 {
-  "edition": 3333,
+  "description": "1/1 Art for MoonHolders created by @deeppurplezol",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Skin",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Relaxed"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Laser Eyes"
-    },
-    {
-      "trait_type": "Head",
-      "value": "None"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Red Hoodie"
+      "trait_type": "Mythic",
+      "value": "Argus"
     }
   ]
 }
