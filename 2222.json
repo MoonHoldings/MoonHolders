@@ -1,29 +1,9 @@
 {
-  "edition": 2222,
+  "description": "1/1 Art for MoonHolders created by @WizArt_Studios",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Shooting Stars"
-    },
-    {
-      "trait_type": "Skin",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Wink"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Om"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Black Suit"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Viking"
+      "trait_type": "Mythic",
+      "value": "Eruption"
     }
   ]
 }

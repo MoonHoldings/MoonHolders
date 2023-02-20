@@ -1,29 +1,9 @@
 {
-  "edition": 1337,
+  "description": "1/1 Art for MoonHolders created by @deeppurplezol",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Skin",
-      "value": "Rust"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Smirk"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Wink"
-    },
-    {
-      "trait_type": "Head",
-      "value": "None"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Black Turtle Neck"
+      "trait_type": "Mythic",
+      "value": "Rigel"
     }
   ]
 }

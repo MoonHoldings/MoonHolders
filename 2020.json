@@ -1,29 +1,9 @@
 {
-  "edition": 2020,
+  "description": "1/1 Art for MoonHolders created by @danielherdianto",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Light Blue"
-    },
-    {
-      "trait_type": "Skin",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Red Sunglasses"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Mohawk Black"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Black T-shirt"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Lollipop"
+      "trait_type": "Mythic",
+      "value": "Oxa"
     }
   ]
 }
