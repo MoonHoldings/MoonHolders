@@ -1,29 +1,9 @@
 {
-  "edition": 4200,
+  "description": "1/1 Art for MoonHolders created by @Peanug420",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Shooting Stars"
-    },
-    {
-      "trait_type": "Skin",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Smile"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Mascara Wink"
-    },
-    {
-      "trait_type": "Head",
-      "value": "None"
-    },
-    {
-      "trait_type": "Body",
-      "value": "White T-shirt"
+      "trait_type": "Mythic",
+      "value": "Quantum"
     }
   ]
 }

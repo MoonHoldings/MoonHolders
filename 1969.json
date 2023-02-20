@@ -1,29 +1,9 @@
 {
-  "edition": 1969,
+  "description": "1/1 Art for MoonHolders created by @SolGangLeader",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Skin",
-      "value": "Rose"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Relaxed"
-    },
-    {
-      "trait_type": "Head",
-      "value": "None"
-    },
-    {
-      "trait_type": "Body",
-      "value": "None"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "White Beard"
+      "trait_type": "Mythic",
+      "value": "Luna"
     }
   ]
 }

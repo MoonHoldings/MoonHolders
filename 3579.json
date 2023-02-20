@@ -1,29 +1,9 @@
 {
-  "edition": 3579,
+  "description": "1/1 Art for MoonHolders created by @WizArt_Studios",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Skin",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Relaxed"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Solana Vipers"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Ram Horns"
-    },
-    {
-      "trait_type": "Body",
-      "value": "None"
+      "trait_type": "Mythic",
+      "value": "Cosmos"
     }
   ]
 }

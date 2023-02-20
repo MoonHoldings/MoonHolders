@@ -1,29 +1,9 @@
 {
-  "edition": 5050,
+  "description": "1/1 Art for MoonHolders created by @Rafaqin",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Orange"
-    },
-    {
-      "trait_type": "Skin",
-      "value": "Rust"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Tongue Out"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Sad"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Cowboy Hat"
-    },
-    {
-      "trait_type": "Body",
-      "value": "None"
+      "trait_type": "Mythic",
+      "value": "Captain"
     }
   ]
 }
