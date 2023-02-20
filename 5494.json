@@ -7,11 +7,11 @@
     },
     {
       "trait_type": "Skin",
-      "value": "Mummy"
+      "value": "Skeleton"
     },
     {
       "trait_type": "Eyes",
-      "value": "Sleepy"
+      "value": "None"
     },
     {
       "trait_type": "Head",
@@ -19,11 +19,11 @@
     },
     {
       "trait_type": "Body",
-      "value": "Blue T-shirt"
+      "value": "None"
     },
     {
       "trait_type": "Mouth",
-      "value": "Black Beard"
+      "value": "Relaxed"
     }
   ]
 }
