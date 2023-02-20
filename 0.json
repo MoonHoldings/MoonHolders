@@ -3,27 +3,27 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Red"
+      "value": "Light Blue"
     },
     {
       "trait_type": "Skin",
-      "value": "Rust"
+      "value": "Purple"
     },
     {
       "trait_type": "Mouth",
-      "value": "Giggle"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Mascara Shocked"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
-      "value": "None"
+      "value": "Backwards Solana Cap"
     },
     {
       "trait_type": "Body",
-      "value": "Black T-shirt"
+      "value": "None"
     }
   ]
 }
