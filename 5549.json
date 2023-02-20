@@ -1,0 +1,29 @@
+{
+  "edition": 2854,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smug"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk Rainbow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue T-shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    }
+  ]
+}
