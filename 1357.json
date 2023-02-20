@@ -1,29 +1,9 @@
 {
-  "edition": 1357,
+  "description": "1/1 Art for MoonHolders created by @zennyNFTs",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Solana"
-    },
-    {
-      "trait_type": "Skin",
-      "value": "Rust"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Relaxed"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Mascara Wink"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Purple Cap"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Orange Puffer Jacket"
+      "trait_type": "Mythic",
+      "value": "Nebula"
     }
   ]
 }

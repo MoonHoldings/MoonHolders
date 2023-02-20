@@ -1,29 +1,9 @@
 {
-  "edition": 1999,
+  "description": "1/1 Art for MoonHolders created by @tevoeatacid",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Deep Blue"
-    },
-    {
-      "trait_type": "Skin",
-      "value": "Rust"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Smile"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Pink Hologram Googles"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Solana"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Jumper Jacket"
+      "trait_type": "Mythic",
+      "value": "Matrix"
     }
   ]
 }

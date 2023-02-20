@@ -1,29 +1,9 @@
 {
-  "edition": 4242,
+  "description": "1/1 Art for MoonHolders created by @ceny_xyz",
   "attributes": [
     {
-      "trait_type": "Background",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Skin",
-      "value": "Rust"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Grin"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Wink"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Blue Cap"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Black Suit"
+      "trait_type": "Mythic",
+      "value": "Off The Moon"
     }
   ]
 }
