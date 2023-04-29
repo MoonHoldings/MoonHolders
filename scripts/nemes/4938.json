@@ -1,5 +1,5 @@
 {
-  "edition": 5097,
+  "edition": 4938,
   "attributes": [
     {
       "trait_type": "Background",
@@ -11,11 +11,11 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Grin"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Space Suit"
+      "value": "Tesla Jacket"
     }
   ]
 }

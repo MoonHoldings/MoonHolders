@@ -1,5 +1,5 @@
 {
-  "edition": 5097,
+  "edition": 5333,
   "attributes": [
     {
       "trait_type": "Background",
@@ -7,7 +7,7 @@
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
+      "value": "Rust"
     },
     {
       "trait_type": "Mouth",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Meme Sunglasses"
     },
     {
       "trait_type": "Head",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Space Suit"
+      "value": "Red Hawaiian Shirt"
     }
   ]
 }

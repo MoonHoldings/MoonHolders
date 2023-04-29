@@ -1,9 +1,9 @@
 {
-  "edition": 5097,
+  "edition": 3788,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Deep Blue"
     },
     {
       "trait_type": "Skin",
@@ -11,11 +11,11 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Wink"
     },
     {
       "trait_type": "Head",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Space Suit"
+      "value": "Red T-shirt"
     }
   ]
 }

@@ -1,21 +1,21 @@
 {
-  "edition": 5097,
+  "edition": 5075,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Orange"
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
+      "value": "Green"
     },
     {
       "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Angry"
     },
     {
       "trait_type": "Head",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Space Suit"
+      "value": "Orange T-shirt"
     }
   ]
 }

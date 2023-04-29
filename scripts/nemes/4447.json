@@ -1,17 +1,17 @@
 {
-  "edition": 5097,
+  "edition": 4447,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Lavender"
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
+      "value": "Green"
     },
     {
       "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Grin"
     },
     {
       "trait_type": "Eyes",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Space Suit"
+      "value": "White T-shirt"
     }
   ]
 }

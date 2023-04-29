@@ -1,21 +1,21 @@
 {
-  "edition": 5097,
+  "edition": 4392,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Solana"
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
+      "value": "Peach"
     },
     {
       "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Space Suit"
+      "value": "Jumper Jacket"
     }
   ]
 }

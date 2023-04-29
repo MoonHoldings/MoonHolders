@@ -1,9 +1,9 @@
 {
-  "edition": 5097,
+  "edition": 5027,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Yellow"
     },
     {
       "trait_type": "Skin",
@@ -11,11 +11,11 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Giggle"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Mascara Relaxed"
     },
     {
       "trait_type": "Head",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Space Suit"
+      "value": "None"
     }
   ]
 }

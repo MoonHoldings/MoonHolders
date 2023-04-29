@@ -1,21 +1,21 @@
 {
-  "edition": 5097,
+  "edition": 5533,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Purple"
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
+      "value": "Mummy"
     },
     {
       "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Viking"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Meme Sunglasses"
     },
     {
       "trait_type": "Head",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Space Suit"
+      "value": "Red Hawaiian Shirt"
     }
   ]
 }

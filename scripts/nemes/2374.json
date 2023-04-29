@@ -1,21 +1,21 @@
 {
-  "edition": 5097,
+  "edition": 2374,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Deep Blue"
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
+      "value": "Gold"
     },
     {
       "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Fu Manchu"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Nouns"
     },
     {
       "trait_type": "Head",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Space Suit"
+      "value": "Black Suit"
     }
   ]
 }

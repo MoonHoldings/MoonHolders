@@ -1,21 +1,21 @@
 {
-  "edition": 5097,
+  "edition": 4909,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Light Blue"
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
+      "value": "Psychedelic"
     },
     {
       "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Space Suit"
+      "value": "Robotic Armor"
     }
   ]
 }

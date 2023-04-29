@@ -1,9 +1,9 @@
 {
-  "edition": 5097,
+  "edition": 2685,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Deep Blue"
     },
     {
       "trait_type": "Skin",
@@ -11,11 +11,11 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Glasses"
     },
     {
       "trait_type": "Head",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Space Suit"
+      "value": "Black Turtle Neck"
     }
   ]
 }

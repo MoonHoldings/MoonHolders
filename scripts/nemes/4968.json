@@ -1,17 +1,17 @@
 {
-  "edition": 5097,
+  "edition": 4968,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Pink"
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
+      "value": "Rust"
     },
     {
       "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Grin"
     },
     {
       "trait_type": "Eyes",

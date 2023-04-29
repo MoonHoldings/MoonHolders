@@ -1,21 +1,21 @@
 {
-  "edition": 5097,
+  "edition": 5290,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Yellow"
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
+      "value": "Peach"
     },
     {
       "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Smirk"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Mascara Sad"
     },
     {
       "trait_type": "Head",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Space Suit"
+      "value": "None"
     }
   ]
 }

@@ -1,21 +1,21 @@
 {
-  "edition": 5097,
+  "edition": 2309,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Pink"
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
+      "value": "Skeleton"
     },
     {
       "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Laugh"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Nouns"
     },
     {
       "trait_type": "Head",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Space Suit"
+      "value": "None"
     }
   ]
 }

@@ -1,21 +1,17 @@
 {
-  "edition": 5097,
+  "edition": 1509,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Pink"
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Peach"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Relaxed"
     },
     {
       "trait_type": "Head",
@@ -23,7 +19,11 @@
     },
     {
       "trait_type": "Body",
-      "value": "Space Suit"
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vape"
     }
   ]
 }

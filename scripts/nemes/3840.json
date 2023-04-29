@@ -1,21 +1,17 @@
 {
-  "edition": 5097,
+  "edition": 3840,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Purple"
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Rose"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Electric"
     },
     {
       "trait_type": "Head",
@@ -23,7 +19,11 @@
     },
     {
       "trait_type": "Body",
-      "value": "Space Suit"
+      "value": "Red Hawaiian Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Viking"
     }
   ]
 }

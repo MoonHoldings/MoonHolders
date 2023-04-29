@@ -1,21 +1,21 @@
 {
-  "edition": 5097,
+  "edition": 3739,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Solana City"
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
+      "value": "Gold"
     },
     {
       "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Laugh"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Smug"
     },
     {
       "trait_type": "Head",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Space Suit"
+      "value": "None"
     }
   ]
 }

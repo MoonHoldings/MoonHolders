@@ -1,21 +1,21 @@
 {
-  "edition": 5097,
+  "edition": 4422,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Green"
+      "value": "Orange"
     },
     {
       "trait_type": "Skin",
-      "value": "Red"
+      "value": "Zombie"
     },
     {
       "trait_type": "Mouth",
-      "value": "Tongue Out"
+      "value": "Laugh"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed"
+      "value": "Mascara Sad"
     },
     {
       "trait_type": "Head",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Body",
-      "value": "Space Suit"
+      "value": "Red T-shirt"
     }
   ]
 }
