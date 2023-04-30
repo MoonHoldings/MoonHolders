@@ -5,7 +5,7 @@ const path = require('path');
 const folderPath = 'D:/GITHUB/MoonHolders';
 
 // Value to search for
-const searchValue = 'Gold';
+const searchValue = 'Mascara Sad';
 
 // Array to store editions with the search value
 const editionsWithSearchValue = [];
