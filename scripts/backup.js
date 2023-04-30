@@ -3,15 +3,15 @@ const path = require("path");
 
 // Array of numbers to search for
 const searchNumbers = [
-  5097, 1674, 3751, 4154, 4678, 4256, 5533, 3788, 4938, 2112, 3553, 2685, 3840,
-  1513, 2396, 2309, 4712, 5333, 5188, 5290, 4447, 4996, 4422, 4968, 1498, 4159,
-  5027, 3014, 3739, 2120, 3733, 5206, 2488, 3033, 3648, 4281, 1509, 5075, 4392,
-  4482, 1603, 4909, 2374, 1556, 1532, 1898, 5020, 3230, 5515, 1392,
+  5045, 5159, 5080, 4668, 1923, 2680, 4177, 4258, 4602, 2345, 4204, 4147, 2245,
+  5161, 4157, 2842, 1363, 3188, 1570, 3373, 4040, 3412, 4876, 4239, 2485, 5506,
+  2090, 3574, 2656, 2820, 2722, 3110, 5245, 2596, 3475, 1326, 3800, 3109, 1802,
+  1825, 3601, 2861, 2729, 1841, 4752, 3336, 5195, 2524, 2395, 3056,
 ];
 
 // Folder paths for input and output
 const inputFolder = "D:/GITHUB/MoonHolders";
-const outputFolder = "D:/GITHUB/MoonHolders/scripts/nemes";
+const outputFolder = "D:/GITHUB/MoonHolders/scripts/parrot";
 
 // Loop through each search number
 for (const number of searchNumbers) {
